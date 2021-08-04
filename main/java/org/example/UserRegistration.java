@@ -27,7 +27,7 @@ public class UserRegistration {
         if (check)
             System.out.println("Perfect! #Email!");
         else
-            System.out.println("Please Enter a Valid Email with Only \"example.abc@bl.co.in\" latter");
+            System.out.println("Please Enter a Valid Email with Only \"example.abc@bl.com\" latter");
 
         return check;
     }
@@ -38,7 +38,7 @@ public class UserRegistration {
         if (check)
             System.out.println("Perfect! Mobile #Num");
         else
-            System.out.println("Please Enter a Valid Mobile Num ex:- 90 9533182605");
+            System.out.println("Please Enter a Valid Mobile Num ex:- 90 8073227941");
         return check;
     }
 
@@ -89,7 +89,7 @@ public class UserRegistration {
         if (check)
             System.out.println("Perfect! #Email!");
         else
-            System.out.println("Please Enter a Valid Email with Only \"example.abc@bl.co.in\" latter");
+            System.out.println("Please Enter a Valid Email with Only \"example.abc@bl.com\" latter");
         return check;
     }
 
